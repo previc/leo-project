@@ -1,0 +1,6 @@
+[submodule "drawleo"]
+	path = drawleo
+	url = https://github.com/previc/drawleo.git
+[submodule "listenleo"]
+	path = listenleo
+	url = https://github.com/previc/ListenLeo.git
