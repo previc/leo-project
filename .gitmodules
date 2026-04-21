@@ -4,3 +4,9 @@
 [submodule "listenleo"]
 	path = listenleo
 	url = https://github.com/previc/ListenLeo.git
+[submodule "leo-backend"]
+	path = leo-backend
+	url = https://github.com/previc/Leo-Backend.git
+[submodule "playleo"]
+	path = playleo
+	url = https://github.com/previc/playleo.git
